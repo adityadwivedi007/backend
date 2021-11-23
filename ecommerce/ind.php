@@ -90,7 +90,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="header_sub">
 		<div class="h_menu">
 			<ul>
-				<li class="active"><a href="index.html">Home</a></li> |
+				<li class="active"><a href="ind.php">Home</a></li> |
 				<li><a href="inserthandbages.php">handbags</a></li> |
 				<li><a href="insertaccessories.php">accessories</a></li> |
 				<li><a href="wallets.html">wallets</a></li> |
@@ -129,7 +129,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- start slider -->
 			<div id="da-slider" class="da-slider">
 				<div class="da-slide">
-					<h2>welcome to aditii</h2>
+					
 					<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</p>
 					<a href="details.html" class="da-link">shop now</a>
 					<div class="da-img"><img src="images/slider1.png" alt="image01" /></div>
